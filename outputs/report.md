@@ -23,4 +23,4 @@ Data downloaded: 2021-06-21 to 2026-06-18. Backtest trading window: 2021-07-20 t
 
 The mean reversion strategy finished with $11,005.10, versus $18,683.58 for buy and hold. In this five-year test, the difference was $-7,678.48.
 
-See `equity_curve.csv` for daily values and `equity_curve.svg` for the chart.
+Run `python3 outputs/mean_reversion_backtest.py` to regenerate the full daily equity curve CSV and SVG chart.
